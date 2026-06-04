@@ -26,3 +26,18 @@ You may occur error message : error: Microsoft Visual C++ 14.0 or greater is req
 python ./Pybullet/demo.py --expt-name='your expert name'
 ```
 
+Please cite our paper if you use this code:
+
+```
+@ARTICLE{10976394,
+  author={Ming, Chenlin and Wang, Zitong and Zhang, Boxuan and Cao, Zhanxiang and Duan, Xiaoming and He, Jianping},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration}, 
+  year={2025},
+  volume={10},
+  number={6},
+  pages={6127-6134},
+  keywords={Trajectory;Costs;Noise measurement;Cost function;Trajectory optimization;Measurement;Frequency-domain analysis;Planning;Motion and path planning;optimization and optimal control;learning from demonstration},
+  doi={10.1109/LRA.2025.3564208}}
+```
+
